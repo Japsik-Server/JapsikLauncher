@@ -12,7 +12,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ## 다운로드
 
-[GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases) 또는 [Japsik Download Center](https://static.japsik.xyz) 에서 다운로드 하실 수 있습니다.
+[GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases) 또는 [Japsik Download Center](https://static.japsik.com) 에서 다운로드 하실 수 있습니다.
 
 #### 최신 Release
 
@@ -32,7 +32,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases) or [Japsik Download Center](https://static.japsik.xyz)
+You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases) or [Japsik Download Center](https://static.japsik.com)
 
 #### Latest Release
 
