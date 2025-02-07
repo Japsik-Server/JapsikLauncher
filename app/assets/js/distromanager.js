@@ -3,8 +3,7 @@ const version = '1.0.5-pre.1'
 
 const ConfigManager = require('./configmanager')
 
-exports.REMOTE_DISTRO_URL = `https://api.japsik.xyz/launcher/${version}/version`
-// exports.REMOTE_DISTRO_URL = `https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/refs/heads/main/live/distribution.json`
+exports.REMOTE_DISTRO_URL = `https://api.japsik.com/launcher/${version}/version`
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
