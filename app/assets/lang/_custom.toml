@@ -8,11 +8,11 @@ mediaGitHubURL = "https://github.com/Japsik-Server/JapsikLauncher"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.japsik.xyz"
+mediaDiscordURL = "https://discord.japsik.com"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/Japsik-Server/JapsikLauncher"
-supportLink = "https://discord.japsik.xyz"
+supportLink = "https://discord.japsik.com"
 
 [ejs.welcome]
 welcomeHeader = "잡식 런처에 오신 걸 환영합니다!"
