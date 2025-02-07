@@ -1,5 +1,5 @@
 const { DistributionAPI } = require('helios-core/common')
-const version = '1.0.5-pre.1'
+const version = '1.0.6-pre.1'
 
 const ConfigManager = require('./configmanager')
 
