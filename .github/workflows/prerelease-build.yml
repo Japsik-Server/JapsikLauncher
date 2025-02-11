@@ -53,19 +53,11 @@ jobs:
           echo -e "\033[32m"Dependencies Installation Completed
         shell: bash
 
-      - name: Build Windows
+      - name: Build
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm run dist:win
-          echo -e "\033[32m"Build Completed
-        shell: bash
-
-      - name: Build Linux
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npm run dist:linux
           echo -e "\033[32m"Build Completed
         shell: bash
 
