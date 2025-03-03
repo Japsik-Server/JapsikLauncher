@@ -315,7 +315,7 @@ unknownDesc = "An unknown error has occurred. Please see the console for details
 
 [js.auth.mojang.error]
 methodNotAllowedTitle = "Internal Error:<br>Method Not Allowed"
-methodNotAllowedDesc = "Method not allowed. Please report this error at <a href=\"https://github.com/Japsik/JapsikLauncher/issues/\">Github</a>."
+methodNotAllowedDesc = "Method not allowed. Please report this error at <a href=\"https://github.com/Japsik-Server/JapsikLauncher/issues/\">Github</a>."
 notFoundTitle = "Internal Error:<br>Not Found"
 notFoundDesc = "The authentication endpoint was not found. Please report this issue."
 accountMigratedTitle = "Error During Login:<br>Account Migrated"
@@ -333,7 +333,7 @@ credentialsMissingDesc = "Username/password was not submitted or password is les
 invalidSaltVersionTitle = "Error During Login:<br>Invalid Salt Version"
 invalidSaltVersionDesc = "Invalid salt version."
 unsupportedMediaTypeTitle = "Internal Error:<br>Unsupported Media Type"
-unsupportedMediaTypeDesc = "Unsupported media type. Please report this error at <a href=\"https://github.com/Japsik/JapsikLauncher/issues/\">Github</a>."
+unsupportedMediaTypeDesc = "Unsupported media type. Please report this error at <a href=\"https://github.com/Japsik-Server/JapsikLauncher/issues/\">Github</a>."
 accountGoneTitle = "Error During Login:<br>Account Migrated"
 accountGoneDesc = "Account has been migrated to a Microsoft account. Please log in with Microsoft."
 unreachableTitle = "Error During Login:<br>Unreachable"

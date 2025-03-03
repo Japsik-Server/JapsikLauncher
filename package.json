@@ -3,11 +3,11 @@
   "version": "1.0.7-pre.1",
   "productName": "Japsik Launcher",
   "description": "Modded Minecraft Launcher for Japsik",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), Japsik (https://github.com/Japsik/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), Japsik (https://github.com/Japsik-Server/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Japsik/JapsikLauncher",
+  "homepage": "https://github.com/Japsik-Server/JapsikLauncher",
   "bugs": {
-    "url": "https://github.com/Japsik/JapsikLauncher/issues"
+    "url": "https://github.com/Japsik-Server/JapsikLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Japsik/JapsikLauncher.git"
+    "url": "git+https://github.com/Japsik-Server/JapsikLauncher.git"
   }
 }

@@ -8,7 +8,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ---
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/Japsik/JapsikLauncher/build.yml?branch=v1.0.x&style=for-the-badge" alt="gh actions">](https://github.com/Japsik/JapsikLauncher/actions) [<img src="https://img.shields.io/github/downloads/Japsik/JapsikLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Japsik-Sercer/JapsikLauncher/releases)</p>
+[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/Japsik-Server/JapsikLauncher/build.yml?branch=v1.0.x&style=for-the-badge" alt="gh actions">](https://github.com/Japsik-Server/JapsikLauncher/actions) [<img src="https://img.shields.io/github/downloads/Japsik-Server/JapsikLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Japsik-Sercer/JapsikLauncher/releases)</p>
 
 ## 다운로드
 
@@ -16,11 +16,11 @@ https://github.com/dscalzi/HeliosLauncher
 
 #### 최신 Release
 
-[![](https://img.shields.io/github/release/Japsik/JapsikLauncher.svg?style=flat-square)](https://github.com/Japsik/JapsikLauncher/releases/latest)
+[![](https://img.shields.io/github/release/Japsik-Server/JapsikLauncher.svg?style=flat-square)](https://github.com/Japsik-Server/JapsikLauncher/releases/latest)
 
 #### 최신 Pre-Release
 
-[![](https://img.shields.io/github/release/Japsik/JapsikLauncher/all.svg?style=flat-square)](https://github.com/Japsik/JapsikLauncher/releases)
+[![](https://img.shields.io/github/release/Japsik-Server/JapsikLauncher/all.svg?style=flat-square)](https://github.com/Japsik-Server/JapsikLauncher/releases)
 
 **지원되는 플랫폼**
 
