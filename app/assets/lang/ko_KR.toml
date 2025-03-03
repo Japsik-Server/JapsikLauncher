@@ -315,9 +315,9 @@ unknownDesc = "알 수 없는 오류가 발생했습니다. 자세한 내용은 
 
 [js.auth.mojang.error]
 methodNotAllowedTitle = "내부 오류:<br>허가되지 않은 방식"
-methodNotAllowedDesc = "해당 로그인 방식은 허가되지 않았습니다. <a href=\"https://github.com/Japsik-Server/JapsikLauncher/issues/\">Github</a>에서 이 오류를 제보해주세요."
+methodNotAllowedDesc = "해당 로그인 방식은 허가되지 않았습니다. <a href=\"https://github.com/Japsik/JapsikLauncher/issues/\">Github</a>에서 이 오류를 제보해주세요."
 notFoundTitle = "내부 오류:<br>찾을 수 없음"
-notFoundDesc = "인증 Endpoint를 찾을 수 없습니다. <a href=\"https://github.com/Japsik-Server/JapsikLauncher/issues/\">Github</a>에서 이 오류를 제보해주세요."
+notFoundDesc = "인증 Endpoint를 찾을 수 없습니다. <a href=\"https://github.com/Japsik/JapsikLauncher/issues/\">Github</a>에서 이 오류를 제보해주세요."
 accountMigratedTitle = "로그인 중 오류 발생:<br>마이그레이션된 계정"
 accountMigratedDesc = "마이그레이션된 계정으로 로그인을 시도하셨습니다. 계정 이메일을 사용자 이름으로 입력해 다시 시도해 보세요."
 invalidCredentialsTitle = "로그인 중 오류 발생:<br>유효하지 않은 정보"
@@ -333,7 +333,7 @@ credentialsMissingDesc = "사용자 이름/비밀번호가 입력되지 않았�
 invalidSaltVersionTitle = "로그인 중 오류 발생:<br>올바르지 않은 Salt 버전"
 invalidSaltVersionDesc = "올바르지 않은 Salt 버전."
 unsupportedMediaTypeTitle = "내부 오류:<br>지원되지 않는 미디어 타입"
-unsupportedMediaTypeDesc = "지원되지 않는 미디어 타입입니다. <a href=\"https://github.com/Japsik-Server/JapsikLauncher/issues/\">Github</a>에서 이 오류를 제보해주세요."
+unsupportedMediaTypeDesc = "지원되지 않는 미디어 타입입니다. <a href=\"https://github.com/Japsik/JapsikLauncher/issues/\">Github</a>에서 이 오류를 제보해주세요."
 accountGoneTitle = "로그인 중 오류 발생:<br>마이그레이션된 계정"
 accountGoneDesc = "계정이 Microsoft 계정으로 마이그레이션되었습니다. 마이크로소프트로 로그인해주세요."
 unreachableTitle = "로그인 중 오류 발생:<br>접속 불가"

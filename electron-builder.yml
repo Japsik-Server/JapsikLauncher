@@ -2,7 +2,7 @@ appId: 'japsiklauncher'
 productName: 'Japsik Launcher'
 artifactName: 'Japsik-Launcher-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2024. Japsik'
+copyright: 'Copyright © 2025. Japsik'
 
 asar: true
 compression: 'maximum'
