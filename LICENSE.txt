@@ -1,7 +1,7 @@
 MIT License
 
 Copyright (c) 2017-2024 Daniel D. Scalzi
-Copyright (c) 2025 Taejun Park
+Copyright (c) 2025 Japsik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
