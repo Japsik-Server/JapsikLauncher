@@ -16,7 +16,6 @@ version-resolver:
             - 'patch'
     default: patch
 template: |
-    ## Pre-Release v$RESOLVED_VERSION
+    ## 변경 사항
     
-    ### Changes
-    
+    $CHANGES
