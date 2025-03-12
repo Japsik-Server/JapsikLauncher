@@ -3,25 +3,9 @@ name: Pre-Release Build
 on: 
   push:
       branches:
-        - v1.0.x
+        - dev
 
 jobs:
-  release_draft:
-        permissions:
-            contents: write
-            pull-requests: write
-            checks: write
-        runs-on: ubuntu-latest
-        steps:
-            - uses: release-drafter/release-drafter@v6
-              id: release-drafter
-              with:
-                  config-name: 'prerelease-drafter-config.yml'
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        outputs:
-            release_id: ${{ steps.release-drafter.outputs.id }}
-
   build:
     runs-on: ${{ matrix.os }}
 
