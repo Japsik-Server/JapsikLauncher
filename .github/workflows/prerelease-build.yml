@@ -7,14 +7,10 @@ on:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
+    runs-on: [self-hosted, Windows, X64]
 
     permissions:
       contents: write
-
-    strategy:
-      matrix:
-        os: [windows-latest]
     
 
     steps:
