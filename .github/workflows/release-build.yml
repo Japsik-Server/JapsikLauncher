@@ -7,11 +7,15 @@ on:
 
 jobs:
   build:
-    runs-on: [self-hosted, Windows, X64]
+    runs-on: ${{ matrix.os }}
 
     permissions:
       contents: write
 
+    strategy:
+      matrix:
+        os: [windows-latest]
+    
 
     steps:
       - name: Check out Git repository
