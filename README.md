@@ -8,7 +8,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 ---
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/Japsik-Server/JapsikLauncher/prerelease-build.yml?branch=dev&style=for-the-badge" alt="gh actions">](https://github.com/Japsik-Server/JapsikLauncher/actions) [<img src="https://img.shields.io/github/downloads/Japsik-Server/JapsikLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Japsik-Sercer/JapsikLauncher/releases)</p>
+[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/Japsik-Server/JapsikLauncher/release-build.yml?branch=dev&style=for-the-badge" alt="gh actions">](https://github.com/Japsik-Server/JapsikLauncher/actions) [<img src="https://img.shields.io/github/downloads/Japsik-Server/JapsikLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Japsik-Sercer/JapsikLauncher/releases)</p>
 
 ## 다운로드
 
